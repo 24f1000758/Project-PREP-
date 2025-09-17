@@ -1,0 +1,162 @@
+[
+    {
+        "question": "what is the capital of india",
+        "answer": "New Delhi is the capital of India."
+    },
+    {
+        "question": "who painted the mona lisa",
+        "answer": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+        "question": "what is the height of mona lisa painting",
+        "answer": "The Mona Lisa is approximately 77 cm tall."
+    },
+    {
+        "question": "what is the capital of Russia",
+        "answer": "The capital of Russia is Moscow."
+    },
+    {
+        "question": "tell me the capital of iran",
+        "answer": "The capital of Iran is Tehran."
+    },
+    {
+        "question": "how many days are there in one month or tell me list of days of months",
+        "answer": "The number of days in a month varies: Seven months (January, March, May, July, August, October, and December) have 31 days. Four months (April, June, September, and November) have 30 days. February has 28 days in a common year and 29 days in a leap year."
+    },
+    {
+        "question": "who painted the famous monalisa painting",
+        "answer": "The famous Mona Lisa painting was painted by Leonardo da Vinci."
+    },
+    {
+        "question": "who is the first man to land on the moon",
+        "answer": "Neil Armstrong was the first man to land on the moon."
+    },
+    {
+        "question": "tell me who is the pm of india",
+        "answer": "As of my cut-off knowledge in April 2025, the Prime Minister of India is Narendra Modi."
+    },
+    {
+        "question": "who was the pm of india in 2025",
+        "answer": "I'm not aware of any information about the current Prime Minister of India in 2025, as my knowledge cutoff is December 2023. However, as of my knowledge cutoff, the Prime Minister of India was Narendra Modi.\n\nPlease note that my information may not be up to date, and I recommend checking with a more recent source for the most accurate information."
+    },
+    {
+        "question": "who was the prime misiter of india",
+        "answer": "There have been many Prime Ministers of India since its independence in 1947. Here are some of the most recent ones:\n\n1. **Narendra Modi** (2014-present): He is the 14th and current Prime Minister of India. He has been in office since May 26, 2014.\n\n2. **Manmohan Singh** (2004-2014): He was the 13th Prime Minister of India, serving from May 22, 2004, to May 26, 2014.\n\n3. **Atal Bihari Vajpayee** (1998-2004): He was the 10th Prime Minister of India, serving from May 16, 1998, to May 22, 2004.\n\n4. **P. V. Narasimha Rao** (1991-1996): He was the 9th Prime Minister of India, serving from June 21, 1991, to May 16, 1996.\n\n5. **Rajiv Gandhi** (1984-1989): He was the 6th Prime Minister of India, serving from October 31, 1984, to December 2, 1989.\n\n6. **Indira Gandhi** (1966-1977, 1980-1984): She was the 3rd and 4th Prime Minister of India, serving from January 24, 1966,"
+    },
+    {
+        "question": "when pakistan got formed and by whome",
+        "answer": "Pakistan was formed on August 14, 1947, after a long struggle for independence from British colonial rule. The country was created through the efforts of the Muslim League, a political party led by Muhammad Ali Jinnah, also known as Quaid-e-Azam (Urdu for \"Great Leader\").\n\nMuhammad Ali Jinnah was a lawyer and politician who played a key role in the Pakistan Movement, a campaign for a separate homeland for Muslims in the Indian subcontinent. Jinnah was born in 1876 in Karachi, which is now the largest city in Pakistan.\n\nThe idea of a separate homeland for Muslims was first proposed by Sir Syed Ahmad Khan, a Muslim scholar and politician, in the late 19th century. However, it was Jinnah who popularized the idea and led the movement for Pakistan's creation.\n\nIn 1940, Jinnah delivered the famous \"Pakistan Resolution\" at the Muslim League's annual session in Lahore, which called for the creation of a separate homeland for Muslims in the Indian subcontinent. The resolution was adopted by the Muslim League, and it marked the beginning of the Pakistan Movement.\n\nOver the next several years, Jinnah and the Muslim League worked tirelessly to promote the idea of Pakistan and to negotiate with the British government for its creation. In 1947, the British government, led by Prime Minister Clement Attlee, agreed to grant independence to India and Pakistan.\n\nOn August 14, 1947,"
+    },
+    {
+        "question": "when was the world war 2nd started",
+        "answer": "World War II started on September 1, 1939, when Germany, under the leadership of Adolf Hitler, invaded Poland."
+    },
+    {
+        "question": "tell me the time of world war 2",
+        "answer": "World War II did not have a specific time as it was a period from 1939 to 1945. The start of the war was marked by the invasion of Poland by Nazi Germany on September 1, 1939, and the end was declared on September 2, 1945, when Japan surrendered unconditionally."
+    },
+    {
+        "question": "python code to add two numbers",
+        "answer": "Here is a simple Python code snippet to add two numbers: \n\n```python\ndef add_two_numbers(num1, num2):\n    return num1 + num2\n\nresult = add_two_numbers(5, 3)\nprint(result) # Output: 8\n```"
+    },
+    {
+        "question": "what is the height of qutub minar in india",
+        "answer": "The height of Qutub Minar in India is approximately 72.5 meters (237.8 feet)."
+    },
+    {
+        "question": "tell me the height of mount everest",
+        "answer": "Mount Everest stands approximately 8,848.86 meters or 29,029 feet tall. It's the highest mountain above sea level on Earth."
+    },
+    {
+        "question": "tell me what is the mass of sun",
+        "answer": "According to NASA, the mass of the Sun is approximately 1.989 x 10^30 kilograms."
+    },
+    {
+        "question": "how many days are there in a leap year",
+        "answer": "There are 366 days in a leap year."
+    },
+    {
+        "question": "tell me the numbers of days in a year",
+        "answer": "There are 365 days in a non-leap year and 366 days in a leap year."
+    },
+    {
+        "question": "what is the longest river in the world",
+        "answer": "The longest river in the world is the Nile River, which is approximately 6,853 kilometers (4,258 miles) long."
+    },
+    {
+        "question": "are you bot",
+        "answer": "Yes, I am a bot. I was created to assist you with various tasks and answer your questions to the best of my ability."
+    },
+    {
+        "question": "when india got independence in which year what day and from whome india get independence",
+        "answer": "India gained independence from British colonial rule on August 15, 1947."
+    },
+    {
+        "question": "britishers ruled over india for how long",
+        "answer": "The British ruled over India for approximately 190 years. The British East India Company established its first foothold in India in 1612, and by the early 18th century, the British had gained control over most of the Indian subcontinent. The British Raj, as it was known, officially ended on August 15, 1947, when India gained independence from British colonial rule."
+    },
+    {
+        "question": "tell me who was the first British man to come to india",
+        "answer": "According to historical records, the first British man to come to India was William Hawkins, an English merchant who arrived in India in 1583. Hawkins was sent by Queen Elizabeth I to establish trade relations with the Mughal Empire, which was then ruled by Emperor Akbar. Hawkins reached the court of Emperor Akbar at Fatehpur Sikri in 1585 and was received with great honor."
+    },
+    {
+        "question": "what are fundamental rights",
+        "answer": "Fundamental rights are basic human rights that are considered essential for the dignity and well-being of individuals. They are often enshrined in constitutions, laws, and international human rights instruments. The specific rights recognized as fundamental can vary depending on the jurisdiction, but some common examples include:\n\n1. Right to Life: The right to live and not be arbitrarily deprived of life.\n2. Right to Liberty: The right to freedom from arbitrary detention, imprisonment, or exile.\n3. Right to Equality: The right to be treated equally under the law, without discrimination based on race, gender, religion, or other characteristics.\n4. Right to Freedom of Speech: The right to express one's opinions and beliefs without fear of persecution or censorship.\n5. Right to Freedom of Assembly: The right to gather peacefully and express one's opinions through public demonstrations and protests.\n6. Right to Freedom of Association: The right to form and join organizations, unions, and other groups to advance common interests.\n7. Right to Protection from Slavery: The right to be free from forced labor, slavery, and human trafficking.\n8. Right to Protection from Torture: The right to be free from physical or psychological abuse, including torture, cruel, inhuman, or degrading treatment.\n9. Right to Protection from Arbitrary Arrest and Detention: The right to be free from arbitrary arrest, detention, or imprisonment.\n10. Right to Fair Trial: The right to a fair and impartial trial, with the right to a defense and the right to appeal.\n11. Right to Privacy: The right to personal privacy, including the right to protection from unauthorized surveillance and intrusion.\n12. Right to Property: The right to own and inherit property, as well as the right to protection from arbitrary confiscation or expropriation.\n13. Right to Education: The right to access education, including the right to free education and the right to equal access to educational opportunities.\n14. Right to Healthcare: The right to access healthcare, including the right to preventive care, treatment, and rehabilitation.\n15. Right to Social Security: The right to social security, including the right to access social services, such as unemployment benefits, old-age pensions, and disability benefits.\n\nThese are some of the fundamental rights that are widely recognized and protected by international human rights law and national constitutions."
+    },
+    {
+        "question": "Explain fundamental rights, referring to the list you were just given, which includes rights like freedom of speech, right to life, and right to property.",
+        "answer": "I apologize, but I wasn't given a list. However, I can explain fundamental rights in general and provide examples of common fundamental rights.\n\nFundamental rights are basic human rights that are considered essential for the well-being and dignity of an individual. These rights are often enshrined in a country's constitution or bill of rights and are considered non-negotiable and universal. Here are some examples of fundamental rights:\n\n1. Right to Life: The right to live and not be arbitrarily deprived of life.\n2. Freedom of Speech: The right to express one's opinions and beliefs without fear of persecution or censorship.\n3. Right to Property: The right to own and inherit property, including intellectual property.\n4. Right to Equality: The right to be treated equally under the law and not to be discriminated against based on race, gender, religion, or other characteristics.\n5. Right to Liberty: The right to personal freedom and not to be arbitrarily detained or imprisoned.\n6. Right to Association: The right to form associations and join groups to promote one's interests and beliefs.\n7. Right to Education: The right to access education and to be educated without discrimination.\n8. Right to Privacy: The right to privacy and protection from government surveillance and intrusion.\n9. Right to Due Process: The right to a fair and impartial trial, and to be protected from arbitrary arrest and detention.\n10. Right to Protection from Discrimination: The right to be protected from discrimination based on race, gender, religion, or other characteristics.\n\nThese are just a few examples of fundamental rights, and the specific rights recognized and protected can vary from country to country."
+    },
+    {
+        "question": "what is a RAG system",
+        "answer": "A RAG system is a color-coded system used to track and manage projects, tasks, or issues in a project management framework. RAG stands for Red, Amber, and Green, which are the three colors used to categorize the status of a project or task.\n\nHere's a breakdown of what each color typically represents:\n\n* Red (R): High priority, critical, or urgent issues that require immediate attention. These issues are often time-sensitive and have significant consequences if not addressed promptly.\n* Amber (A): Medium priority, warning, or cautionary issues that require attention but are not yet critical. These issues may have some impact if not addressed, but the consequences are not as severe as those associated with red issues.\n* Green (G): Low priority, stable, or completed issues that do not require immediate attention. These issues are typically well-managed, and the project or task is progressing as planned.\n\nThe RAG system is often used in project management, quality control, and risk management to:\n\n1. Prioritize tasks and issues based on their urgency and importance.\n2. Track progress and identify areas that require attention.\n3. Communicate project status to stakeholders and team members.\n4. Focus on resolving critical issues before they become major problems.\n\nThe RAG system is a simple yet effective way to visualize and manage project status, helping teams stay on track and make informed decisions."
+    },
+    {
+        "question": "what is Retrieval-Augmented Generation (RAG)",
+        "answer": "Retrieval-Augmented Generation (RAG) is a type of language model that combines the strengths of both retrieval-based and generation-based models. In traditional language models, the model generates text from scratch, whereas in retrieval-based models, the model retrieves relevant text from a database or corpus.\n\nRAG models, on the other hand, use a hybrid approach. When generating text, the model first retrieves relevant text from a database or corpus, and then uses this retrieved text as input to generate new text. This approach allows the model to leverage the strengths of both retrieval-based and generation-based models.\n\nRAG models have been shown to be effective in a variety of tasks, including language translation, text summarization, and dialogue generation. They are particularly useful when the task requires generating text that is coherent, informative, and relevant to a specific context or topic.\n\nSome of the key benefits of RAG models include:\n\n1. Improved coherence: By retrieving relevant text from a database or corpus, RAG models can generate text that is more coherent and relevant to the topic or context.\n2. Increased accuracy: RAG models can leverage the strengths of both retrieval-based and generation-based models, leading to improved accuracy and quality of generated text.\n3. Flexibility: RAG models can be used in a variety of tasks and applications, including language translation, text summarization, and dialogue generation.\n\nOverall, Retrieval-Augmented Generation (RAG) is a powerful approach to language modeling that combines the strengths of both retrieval-based and generation-based models."
+    },
+    {
+        "question": "explain rag",
+        "answer": "RAG is an acronym that stands for Red Amber Green. It's a simple traffic light system used to indicate the status or priority of tasks, issues, or risks in various contexts, such as project management, risk assessment, or quality control. Red indicates high priority, Amber indicates medium priority, and Green indicates low priority or resolved. This system is easy to understand and visually appealing, making it a popular choice for quick and effective communication."
+    },
+    {
+        "question": "i was going to russia can you tell me the capital of russia",
+        "answer": "Yes, I can help you with that! The capital of Russia is Moscow."
+    },
+    {
+        "question": "who was the prime minister of india",
+        "answer": "As of my knowledge cutoff, the current Prime Minister of India is Narendra Damodardas Modi. He has been serving as the Prime Minister of India since May 26, 2014."
+    },
+    {
+        "question": "what is the capital of pakistan",
+        "answer": "The capital of Pakistan is Islamabad."
+    },
+    {
+        "question": "kya aap mujha gold price bta sakta hai",
+        "answer": "I'd be happy to help you with the current gold price.\n\nAs of my knowledge cutoff, the current gold price is around ₹47,500 to ₹48,500 per 10 grams in India, depending on the purity and market conditions. Please note that gold prices can fluctuate constantly, so this information may not be up-to-date.\n\nIf you're looking for the latest gold price, I recommend checking with a reliable source such as a financial website, a jewelry store, or a gold exchange."
+    },
+    {
+        "question": "hy prep",
+        "answer": "It seems like you're asking about HY (Harvard Yard) at Harvard University. HY is the central quadrangle of Harvard University in Cambridge, Massachusetts. It's a beautiful and historic place, often used for gatherings, events, and tours. If you meant something else by 'hy prep', could you please provide more context?"
+    },
+    {
+        "question": "no no i want the rag i.e retrival agumenting generation RAG",
+        "answer": "It seems you are interested in Retrieval-Augmenting Generation (RAG). RAG is a framework that combines retrieval and generation to answer complex questions. It first retrieves relevant information from a large-scale knowledge base, and then generates an answer based on the retrieved information. This approach allows RAG to provide more accurate and detailed answers compared to traditional generation-only models."
+    },
+    {
+        "question": "i want to go the india so tell me what is the capital of india",
+        "answer": "The capital of India is New Delhi."
+    },
+    {
+        "question": "what are fundament right",
+        "answer": "Fundamental rights are basic rights guaranteed to all individuals by a constitution or legal framework. These rights are considered essential for the protection of individual liberty, dignity, and the rule of law. They are typically enshrined in a country's constitution and are often considered inalienable and non-derogable (meaning they cannot be taken away or limited under any circumstances).\n\nIn many countries, especially in democratic systems, fundamental rights generally include:\n\n1. **Right to Life and Personal Liberty**  \n   The right to live and be free from arbitrary detention or punishment.\n\n2. **Freedom of Speech and Expression**  \n   The right to express opinions, speak, write, and publish without government interference.\n\n3. **Freedom of Religion**  \n   The right to practice, profess, and propagate any religion or to have no religion.\n\n4. **Right to Equality**  \n   Equal treatment before the law and protection against discrimination based on gender, race, religion, or other grounds.\n\n5. **Right to a Fair Trial**  \n   The right to be tried fairly, to have a fair and public hearing, to be presumed innocent until proven guilty, and to have legal representation.\n\n6. **Right to Property**  \n   Protection of one’s property from arbitrary seizure or deprivation.\n\n7. **Right to Education**  \n   The right to access education, especially in democratic societies.\n\n8. **Right to Freedom of Movement**  \n   The right to move freely and reside in any part of the country.\n\n9. **Right to Privacy**  \n   Protection of personal information and private life from unwarranted intrusion.\n\n10. **Right to a Healthy Environment**  \n   In some modern constitutions, this is recognized as a fundamental right.\n\nThese rights are often protected by judicial review, meaning that courts can intervene if the government violates them.\n\n**Example**: In India, the Constitution of India (Part III) lists fundamental rights, including the right to life and personal liberty (Article 21), freedom of speech (Article 19), and equality (Article 14).\n\nNote: The exact list and scope of fundamental rights may vary by country and constitution.\n\nIf you are referring to a specific country or legal system, please let me know so I can provide more targeted information."
+    },
+    {
+        "question": "explain fundamental right",
+        "answer": "Fundamental rights are basic rights that are essential for the protection of the individual from abuses by the state. They are guaranteed by the Constitution and include the right to equality, freedom of speech and expression, freedom of religion, right against exploitation, cultural and educational rights, and the right to constitutional remedies. These rights are considered fundamental because they are necessary for the preservation of human dignity and for the promotion of free and fair society."
+    },
+    {
+        "question": "what are fundamental duties",
+        "answer": "Fundamental duties are a set of obligations that are expected from every citizen of India, as outlined in Part IV-A of the Constitution of India. These duties were added by the 86th Amendment Act of 2002. The three fundamental duties are: 1. To respect the Constitution, the National Flag, and the National Anthem, 2. To cherish and follow the noble ideals which inspired our national struggle for freedom, and 3. To promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic, and regional or sectional diversities; to renounce practices derogatory to the dignity of women, and to strive towards the elimination of untouchability and all forms of discrimination based on religion, race, caste, sex, or place of birth."
+    }
+]
