@@ -1,0 +1,71 @@
+🌐 Frontend
+Vue 3 + Vite (fast modern framework)
+
+Tailwind CSS / Bootstrap (UI styling)
+
+Pinia (state management)
+
+Vue Router (routing)
+
+Chart.js (via vue-chartjs) (analytics & streaks)
+
+⚙️ Backend
+Flask (REST APIs, authentication, business logic)
+
+Flask-JWT-Extended (JWT authentication)
+
+Flask-SQLAlchemy + Alembic (ORM + migrations)
+
+Celery + Redis (background jobs, reminders, OTPs)
+
+Flask-Mail + SendGrid (email sending)
+
+gunicorn/uwsgi (production server)
+
+ChatterBot (conversational chatbot integrated into Flask for small talk and fallback dialogues)
+
+🗄 Database
+PostgreSQL (main relational database)
+
+pgAdmin (optional GUI)
+
+🧠 AI/ML
+spaCy (Natural Language Processing in Python)
+
+Tokenization, intent recognition, entity extraction, command understanding.
+
+Flask (Web Framework)
+
+Backend web server and API management, including chatbot API endpoints.
+
+pandas (Data Handling)
+
+Loading and filtering structured data (e.g., CSV flashcards/questions) for study queries.
+
+pyttsx3 (Text to Speech)
+
+Offline speech synthesis for reading out questions and responses.
+
+ChatterBot
+
+Lightweight conversational dialog engine embedded in Flask for casual chat fallback and small talk.
+
+🔔 Messaging & Notifications
+SendGrid (via Flask-Mail) → OTPs, reminders, notifications
+
+Firebase Cloud Messaging → push notifications (web/mobile)
+
+In-App Notifications (DB + Vue frontend) → dashboard alerts
+
+Celery + Redis → scheduled reminder jobs
+
+☁️ Deployment / Infra (next step)
+Backend Hosting → AWS (EC2/ECS), Heroku, or DigitalOcean
+
+Frontend Hosting → Vercel / Netlify (for Vue)
+
+Database → AWS RDS (Postgres) / DigitalOcean Managed DB
+
+AI Models → Hosted on server with GPU OR Hugging Face Inference API
+
+Containerization → Docker (Flask app + ChatterBot + spaCy + dependencies)
